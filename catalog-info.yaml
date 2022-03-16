@@ -5,7 +5,7 @@ metadata:
   description: test
   annotations:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
-    backstage.io/kubernetes-id: tkg
+    'backstage.io/kubernetes-id': tkg
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
