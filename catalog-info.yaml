@@ -5,7 +5,7 @@ metadata:
   description: test
   annotations:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
-    backstage.io/kubernetes-label-selector: 'app=nginx'
+    backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance'
 
   # Example for optional annotations
   # annotations:
