@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: nginx12
+  name: nginx13
   description: test
   annotations:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
