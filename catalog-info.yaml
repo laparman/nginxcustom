@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: nginx21
+  name: nginx22
   description: test
   annotations:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
