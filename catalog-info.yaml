@@ -7,6 +7,7 @@ metadata:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
     backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance'
     grafana/tag-selector: "kubernetes"
+    prometheus.io/rule: "memUsage|component,node_memory_active_bytes|instance,sum by (instance) (node_cpu_seconds_total)"
 
   # Example for optional annotations
   # annotations:
