@@ -6,7 +6,7 @@ metadata:
   annotations:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
     backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance'
-    grafana/tag-selector: "grafana"
+    grafana/tag-selector: "kubernetes"
 
   # Example for optional annotations
   # annotations:
